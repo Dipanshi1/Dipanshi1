@@ -16,7 +16,7 @@ Currently exploring AI/ML, Backend Engineering, and Cloud Computing through hand
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,fastapi,postgres,docker,git,github,ubuntu,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,fastapi,postgres,docker,git,github,linux,vscode,figma,postman" />
 </p>
 
 <p align="center">
