@@ -28,9 +28,15 @@ Currently exploring AI/ML, Backend Engineering, and Cloud Computing through hand
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dipanshi-gupta/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://x.com/dipanshig28">
-    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" />
+    <img src="https://img.shields.io/badge/X-Follow?style=for-the-badge&logo=x" />
+  </a>
+  <a href="mailto:dipanshig98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://discord.com/users/dipanshi_gupt">
+    <img src="https://img.shields.io/badge/Discord-Connect?style=for-the-badge&logo=discord" />
   </a>
 </p>
