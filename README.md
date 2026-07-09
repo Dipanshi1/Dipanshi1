@@ -1,21 +1,21 @@
-# Hi, I’m Dipanshi 👋
+# Hey, I'm Dipanshi 👋
 
-B.Tech CSE student focused on UI/UX design, currently a Design Team Member at GDG on Campus. Experienced in creating user-centric visual assets and collaborating with cross-functional teams.
+### Computer Science Student | Building AI & Backend Systems | Exploring Cloud
 
-## Focus Areas
-- UI/UX Design (visual design, wireframing, basic user research)
-- Design Tools: Figma, Canva
-- Programming (Basic): Python, C, C++
-- Design-to-development collaboration
+I'm a B.Tech Computer Science student who enjoys learning by building real-world projects and understanding how technology works beyond just writing code.
 
-## Experience
-**Design Team Member — GDG on Campus**  
-Worked on visual assets for events and initiatives, ensuring usability and consistency.
+Currently exploring AI/ML, Backend Engineering, and Cloud Computing through hands-on projects and continuous learning.
 
-## Interests
-UI/UX • Product Thinking • Hackathons • Design Systems
+## 🌱 Currently Exploring
 
-## Connect
-- Devfolio: https://devfolio.co/@dipanshi_gupta
-- LinkedIn: https://www.linkedin.com/in/dipanshi-gupta
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision
+- ⚙️ Backend Engineering
+- ☁️ Cloud Computing
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,fastapi,postgres,docker,git,github,vscode,figma" />
+</p>
 
