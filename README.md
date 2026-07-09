@@ -25,3 +25,14 @@ Currently exploring AI/ML, Backend Engineering, and Cloud Computing through hand
   <img src="https://github-readme-stats.vercel.app/api?username=Dipanshi1&show_icons=true&theme=transparent&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshi1&layout=compact&theme=transparent&hide_border=true" />
 </p>
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dipanshi-gupta/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/dipanshig28">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" />
+  </a>
+</p>
