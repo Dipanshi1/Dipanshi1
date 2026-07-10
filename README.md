@@ -19,10 +19,13 @@ Currently exploring AI/ML, Backend Engineering, and Cloud Computing through hand
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,fastapi,postgres,docker,git,github,linux,vscode,figma,postman" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dipanshi1&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshi1&layout=compact&theme=transparent&hide_border=true" />
-</p>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dipanshi1&show_icons=true&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshi1&layout=compact&theme=dark&hide_border=true" />
+
+<br>
 
 ## 🌐 Connect With Me
 
