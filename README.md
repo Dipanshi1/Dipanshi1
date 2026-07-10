@@ -21,6 +21,8 @@ Currently exploring AI/ML, Backend Engineering, and Cloud Computing through hand
 
 <br>
 
+## 📊 GitHub Stats
+
 <img src="https://github-readme-stats.shion.dev/api?username=Dipanshi1&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
 
 <img src="https://streak-stats.demolab.com?user=Dipanshi1&theme=dark&hide_border=false" />
