@@ -23,11 +23,9 @@ Currently exploring AI/ML, Backend Engineering, and Cloud Computing through hand
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.shion.dev/api?username=Dipanshi1&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dipanshi1&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
 
-<img src="https://streak-stats.demolab.com?user=Dipanshi1&theme=dark&hide_border=false" />
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dipanshi1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshi1&theme=dark&hide_border=false&layout=compact&langs_count=6" />
 
 ## 🌐 Connect With Me
 
