@@ -1,22 +1,37 @@
-# Hey, I'm Dipanshi 👋
+# Hey, I'm Dipanshi Gupta👋
 
-### Computer Science Student | Building AI & Backend Systems | Exploring Cloud
+### AI & Full-Stack Developer | Backend | Exploring Cloud
 
-I'm a B.Tech Computer Science student who enjoys learning by building real-world projects and understanding how technology works beyond just writing code.
+I'm a B.Tech Computer Science student who enjoys building real-world applications and understanding how systems work beyond just writing code.
 
-Currently exploring AI/ML, Backend Engineering, and Cloud Computing through hands-on projects and continuous learning.
+I work across **AI/ML, full-stack development, and backend engineering**, and I'm currently expanding into **cloud computing and cloud-native technologies** through hands-on projects.
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech Computer Science student passionate about **AI, backend systems, and full-stack development**
+- 🤖 Building applications involving **AI/ML, computer vision, and intelligent automation**
+- 💻 Working across **frontend, backend, APIs, databases, and application development**
+- ☁️ Exploring **cloud computing, deployment, containers, and cloud-native development**
+- 🏗️ Interested in **system design, scalable backend systems, and developer tools**
+- 🚀 I learn by building — turning ideas and problems into working products
+
+---
 
 ## 🌱 Currently Exploring
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 👁️ Computer Vision
-- ⚙️ Backend Engineering
-- ☁️ Cloud Computing
+- 🧠 LLM Applications & AI Agents
+- ⚙️ Backend Engineering & APIs
+- ☁️ Cloud Computing & Cloud-Native Development
+- 🏗️ System Design
 
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,fastapi,postgres,docker,git,github,linux,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,fastapi,postgres,docker,git,github,linux,vscode,figma,postman,typescript" />
 </p>
 
 <br>
