@@ -2,6 +2,10 @@
 
 ### Computer Science Student | Building AI & Backend Systems | Exploring Cloud
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Dipanshi1&label=Profile%20Views&color=0e75b6&style=flat" alt="Dipanshi1" />
+</p>
+
 I'm a B.Tech Computer Science student who enjoys learning by building real-world projects and understanding how technology works beyond just writing code.
 
 Currently exploring AI/ML, Backend Engineering, and Cloud Computing through hands-on projects and continuous learning.
