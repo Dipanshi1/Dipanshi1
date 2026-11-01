@@ -1,4 +1,4 @@
-# Hey, I'm Dipanshi Gupta👋
+# Hey, I'm Dipanshi👋
 
 ### AI & Full-Stack Developer | Backend | Exploring Cloud
 
