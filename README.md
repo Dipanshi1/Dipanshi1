@@ -60,9 +60,7 @@ I work across **AI/ML, full-stack development, and backend engineering**, and I'
     <img src="https://img.shields.io/badge/Discord-Connect?style=for-the-badge&logo=discord" />
   </a>
 </p>
-
 Portfolio: https://dipanshigupta.vercel.app/
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Dipanshi1&label=Profile%20Views&color=0e75b6&style=flat" alt="Dipanshi1" />
 </p>
